@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: CONFIGURATION-SERVER
+
+server:
+  port: 8888
